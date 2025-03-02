@@ -22,10 +22,8 @@ analytics specifically designed for women's safety. By leveraging computer visio
 gesture recognition, the system continuously monitors public spaces to detect individuals and classify 
 gender. It provides insights into gender distribution and identifies potentially unsafe situations, such as a 
 lone woman at night or a woman surrounded by men. The software also recognizes distress gestures (SOS) 
-and triggers alerts without requiring manual input, allowing for faster law enforcement response. In addition, 
-it uses data to identify safety hotspots, enabling strategic planning to prevent future incidents. This approach 
-ensures proactive intervention before incidents escalate, addressing gaps in existing systems. Women safety 
+and triggers alerts without requiring manual input, allowing for faster law enforcement response.  Women safety 
 analytics should include the following functionalities 1. Person detection along with Gender Classification 
 2. Gender Distribution : Count the number of men and women present in the scene 3. Identifying a Lone 
 Woman at Night time 4. Detection of a Woman Surrounded by Men 5. Recognizing SOS situation through 
-gesture analytics 6. Identifying hotspots where incidents are more likely to occur, based on the past alerts.
+gesture analytics 6.. Empower women to take control of their safety with a dedicated panic alert button on their mobile device.
